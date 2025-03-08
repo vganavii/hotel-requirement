@@ -1,0 +1,28 @@
+1. Introduction
+Purpose: Define the requirements for a Hotel Management System (HMS) to handle hotel operations like bookings, check-ins, billing, and reporting.
+Scope: Key features include reservation management, customer check-in/check-out, billing, staff and inventory management, and reporting.
+
+2. System Overview
+The HMS will be a web-based platform accessible across devices (computers, tablets, smartphones).
+
+3. Functional Requirements
+User Authentication
+Reservation Management
+Check-in/Check-out: Staff manage guest arrivals and departures, generating bills.
+Billing and Payments: Multi-payment options, invoice generation.
+Reporting: Generate daily, weekly, and monthly occupancy and revenue reports.
+Staff Management: Admins manage staff roles and access rights.
+Customer Management: Store customer details and reservation history
+
+4. Non-Functional Requirements
+Performance.
+Security.
+Usability
+Availability
+Backup and Recovery
+
+5. External Interfaces
+User Interface: Web-based interface for staff and customers.
+Hardware: Integrate with POS and keycard systems.
+Software: Integration with accounting and payment systems.
+
